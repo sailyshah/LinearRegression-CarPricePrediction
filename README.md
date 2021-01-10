@@ -12,9 +12,11 @@ They have contracted an automobile consulting company to understand the factors 
 Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the Americal market.
 
 
+
 Business Goal:
 
 we are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with respect to the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. The model will act as a better medium for management to understand the pricing dynamics of a new market.
+
 
 
 Following steps will be followed to reach our goal:
