@@ -25,11 +25,11 @@ Following steps will be followed to reach our goal:
 2) Reading the concerned dataset
 3) Data Understanding
 4) Data handling
-5) Data visulaisation
+5) Data visualization
 6) Data preparation
 7) Splitting the Data and feature scaling
 8) Building a linear regression model
 9) Residual analysis of the train data
 10) Making Predictions Using the Final Model
 11) Model Evaluation
-12) Conclusions
+12) Conclusion
